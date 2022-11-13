@@ -4,23 +4,30 @@
     padding: 0;
     border: none;
 }
+header a {
+text-decoration: none;
+}
 body {
     font-family: lato, Helvetica, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: r#3a3a3a;
 }
 h1, h2 {
 
     color: #3a3a3a;
     font-family: sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 4px;
 
 
 }
 #logo {
     float: left
     font: size 280%;
+   
+}
+#menu, #logo {
+    line-height: 75px;
 }
 #menu {
     font-size: 110%;
@@ -29,6 +36,16 @@ h1, h2 {
 }
 #menu li {
     float: right;
-    margin-right: 30px;
     list-style-type: none;
+    margin-right: 30px;
+    
+}
+#menu a {
+    text-decoration: none;
+    color: inherit;
+
+}
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a
+    
 }
