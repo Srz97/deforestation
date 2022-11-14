@@ -24,6 +24,7 @@ h1, h2 {
 #logo {
     float: left
     font: size 280%;
+    margin: :left;
    
 }
 #menu, #logo {
@@ -100,4 +101,9 @@ h1, h2 {
     right: 150px;
 
     position: absolute;
+}
+#current-situation {
+    padding-top: 30px;
+    padding-left: 30px;
+    
 }
