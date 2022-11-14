@@ -140,3 +140,28 @@ margin-top: 20px;
     height: 100%;
     
 }
+#causes {
+    padding-top: 30px;
+    padding-left: 30px;
+    
+    height: 600px;
+    background-color: rgb(173, 144, 144)
+}
+#block3 {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    margin-right: 30px;
+}
+.p1 {
+    line-height: 20px;
+    width: 100%;
+    clear: both;
+    margin-top: 20px;
+   
+
+}
+    
+
+
+}
