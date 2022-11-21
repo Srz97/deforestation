@@ -4,9 +4,7 @@
     padding: 0;
     border: none;
 }
-header {
-    background-color: rgb(176, 180, 184,.7);
-}
+
 header a {
 text-decoration: none;
 }
@@ -65,6 +63,7 @@ h1, h2 {
     
     
     background: url(../images/hero-image2.jpg) no-repeat center center;
+    background-size: cover;
 
     animation-name: hero-zoom;
     animation-duration: 4s;
@@ -129,6 +128,7 @@ border-style: solid;
 border-color: #3a3a3a;
 background-color: #fff;
 height: 450px;
+margin-right: 30px;
 }
 .text {
     line-height: 20px;
@@ -142,6 +142,7 @@ margin-top: 20px;
 }
 #second-image {
     background: url(../images/second-image.jpg)no-repeat center center;
+    background-size: coverss;
     height: 100%;
     margin-top: 0;
     
@@ -173,7 +174,8 @@ margin-top: 20px;
     background-color: #fff;
     height: 450px;
 
-    background: url(../images/third-image\ Small.png) no-repeat center center;
+    background: url(../images/image-five.jpg) no-repeat center center;
+    background-size: cover;
     
     
     }
