@@ -213,18 +213,51 @@ footer {
 }
 #solutions {
     width: 100%;
-    padding-left: 30px;
     text-align: center
-      
+    
+    
 }
 #solutions-text {
-    height: 700px;
-    float: inline-end;
+   
     list-style: none;
-    margin-top: 300px;
+    font-size: large;
+    font-size: 130%;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    overflow: hidden;
+    margin-top: 15%;
+    float: left;
+    margin-left: 30px;
+    
+
+
+    
+    
+   
+    
+
+    
 }
 
 #solutions-list {
 list-style: none;
-margin-top: 45%;
+margin-top: 25%;
+}
+#solutions-image
+{
+    height: 700px;
+    width: 100%;
+    display: block;
+    overflow: hidden;
+    
+
+    
+    
+    background: url(../images/solutions-image.jpg) no-repeat center center;
+   
+
+    background-size: cover;
+    
+
 }
