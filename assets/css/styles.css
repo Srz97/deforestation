@@ -197,7 +197,7 @@ margin-top: 20px;
     padding-top: 30px;
     width: 33%;
     float: left;
-    margin-right: 30px;
+    margin-right: 150px;
 
 }
 /* footer */
@@ -327,6 +327,7 @@ p {
     font-size: 1.2em;
 }
 .video-div {
-   float: right;
+   
    padding: 50px;
-}
+   margin-top: 40px;
+   
