@@ -4,7 +4,16 @@
     padding: 0;
     border: none;
 }
-
+header {
+    display: inline-block;
+    width: 100%;
+}
+header .logo-main {
+    display: inline-block;
+}
+header nav {
+    float: right;
+}
 header a {
 text-decoration: none;
 }
@@ -111,7 +120,7 @@ h1, h2 {
     padding-top: 30px;
     padding-left: 30px;
     
-    height: 600px;
+    display: inline-block;
     background-color: rgb(83, 161, 93,.7);
     
 }
@@ -151,7 +160,7 @@ margin-top: 20px;
     padding-top: 30px;
     padding-left: 30px;
     
-    height: 600px;
+    display: inline-block;
     background-color: rgb(173, 144, 144)
 }
 #block-right {
@@ -316,5 +325,8 @@ footer {
 }
 
 p {
-    
+    text-align: justify;
+    line-height: 1.5em;
+    margin-bottom: 15px;
+    font-size: 1.2em;
 }
