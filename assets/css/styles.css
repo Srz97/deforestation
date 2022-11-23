@@ -254,7 +254,7 @@ footer {
 #point-one-image {
     width: 40%;
     height: 300px;
-    margin-top: 40px;
+    margin-top: 70px;
     float: left;
     margin-left: 30px;
 
@@ -271,7 +271,7 @@ footer {
 #point-two-image {
     width: 40%;
     height: 300px;
-    margin-top: 20%;
+    margin-top: 25%;
     float: right;
     margin-right: 30px;
 
@@ -280,4 +280,37 @@ footer {
 }
 #point-two-heading {
     margin-top: 300px;
+    font-size: large; 
+}
+#point-three-image {
+    width: 40%;
+    height: 300px;
+    float: left;
+    margin-left: 30px;
+
+    background: url(../images/awareness-image.jpg) no-repeat center center;
+    background-size: contain;
+
+}
+#point-three-heading {
+    margin-top: 300px;
     font-size: large;
+
+}
+#point-four-image {
+    width: 40%;
+    height: 300px;
+    margin-top: 20%;
+    float: right;
+    margin-right: 30px;
+    
+
+    background: url(../images/vegetables-image.jpg) no-repeat center center;
+    background-size: contain;
+
+}
+#point-four-heading {
+    margin-top: 300px;
+    font-size: large;
+
+}
