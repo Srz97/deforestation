@@ -155,15 +155,15 @@ margin-top: 20px;
     
 }
 #causes {
-    padding: 30px;   
-    display: inline-block;
-    background-color: rgb(173, 144, 144)
+    padding: 30px;
+    display: flex;
+    background-color: rgb(173, 144, 144);
 }
 #block-right {
     padding-top: 30px;
     width: 33%;
     float: right;
-    margin-right: 30px;
+    margin-left: 30px;
 }
 .p1 {
     line-height: 20px;
