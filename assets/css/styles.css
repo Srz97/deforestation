@@ -303,3 +303,9 @@ iframe {
     background-color:rgb(155, 154, 154.07);
     font-size: 170%;
 }
+
+/* form css */
+ 
+.form-text {
+    text-align: center;
+}
