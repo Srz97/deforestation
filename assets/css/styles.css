@@ -334,6 +334,8 @@ min-height: 600px;
  }
 .form-heading {
     color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .form-text input {
 
@@ -346,4 +348,7 @@ min-height: 600px;
     text-align: right;
     display: inline-block;
     width: 130px;
+}
+#sign-up {
+   margin-top: 20px;
 }
