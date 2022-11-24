@@ -312,12 +312,38 @@ iframe {
  
 .form-text {
     text-align: center;
+    font-size: larger;
+    line-height: 2em;
+    padding: auto;
 }
 form {
-    background: red;
-    width: 50%;
+    
+    background: rgba(100, 93, 82, 0.479);
+    width: 30%;
     margin-left: auto;
     margin-right: auto;
     padding: 30px;
+    height: 300px;
 }
+.form-section {
+    
+color: #fff;
+background: url(../images/plants-image.jpg) no-repeat center center;
+background-size: cover;
+min-height: 600px;
+ }
+.form-heading {
+    color: #fff;
+}
+.form-text input {
+
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.form-text label {
+
+    text-align: right;
+    display: inline-block;
+    width: 130px;
 }
