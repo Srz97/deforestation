@@ -266,8 +266,8 @@ p {
 }
 .video-div {
    
-   padding: 50px;
-   margin-top: 40px;
+    padding: 67px;
+    margin-top: -41px;
  }
 .form-section {
     text-align: center;
@@ -283,6 +283,7 @@ iframe {
 /* solutions css */
 #solutions-list {
     background-color: rgb(155, 154, 154.07);
+    padding-bottom: 30px;
     
 }
 #solutions-list .solutions-list-div {
@@ -352,3 +353,18 @@ min-height: 600px;
 #sign-up {
    margin-top: 20px;
 }
+#button {
+    display: block;
+    margin: auto;
+    padding: 20px;
+    font-size: 100%;
+    font-family: inherit;
+    background-color: #202020;
+    color: #FDF5E6;
+    border-radius: 25% 10%;
+    text-transform: uppercase;
+    font-weight: 600;
+    width: 200px;
+     text-align: center;
+    text-decoration: none;}
+    
