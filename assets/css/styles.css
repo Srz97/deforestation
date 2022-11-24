@@ -336,4 +336,10 @@ p {
    background-color:rgb(155, 154, 154.07);
    font-size: 170%;
 }
+.form-section {
+    text-align: center;
+    padding: 30px;
+    display: block;
+    
+}
    
