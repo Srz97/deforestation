@@ -71,7 +71,7 @@ h1, h2 {
     
     
     
-    background: url(../images/hero-image2.jpg) no-repeat center center;
+    background: url(../images/hero-image2.jpg) no-repeat center center fixed;
     background-size: cover;
 
     animation-name: hero-zoom;
@@ -113,6 +113,7 @@ h1, h2 {
 
     bottom: 30px;
     right: 150px;
+    top: 264px;
 
     position: absolute;
 }
@@ -292,6 +293,7 @@ iframe {
 }
 #solutions-list .solutions-list-div.right {
     text-align: right;
+    margin-top: -300px;
 }
 #solutions-list-heading {
     margin-left: 100px;
@@ -304,8 +306,18 @@ iframe {
     font-size: 170%;
 }
 
+
+
 /* form css */
  
 .form-text {
     text-align: center;
+}
+form {
+    background: red;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
 }
