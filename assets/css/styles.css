@@ -149,10 +149,10 @@ margin-top: 20px;
 }
 #second-image {
     background: url(../images/second-image.jpg)no-repeat center center;
-    background-size: coverss;
+    
     height: 100%;
     margin-top: 0;
-    
+    background-size: cover;
 }
 #causes {
     padding: 30px;
@@ -256,69 +256,6 @@ footer {
     background-color:rgb(155, 154, 154);
     height: 600px;
 }
-#point-one-image {
-    width: 40%;
-    height: 300px;
-    margin-top: 70px;
-    float: left;
-    margin-left: 30px;
-
-    background: url(../images/tree-image.jpg) no-repeat center center;
-    background-size: contain;
-
-}
-#point-one-heading {
-    margin-top: 300px;
-    font-size: large;
-
-}
-
-#point-two-image {
-    width: 40%;
-    height: 300px;
-    margin-top: 25%;
-    float: right;
-    margin-right: 30px;
-
-    background: url(../images/papper-image.jpg) no-repeat center center;
-    background-size: contain;
-}
-#point-two-heading {
-    margin-top: 300px;
-    font-size: large; 
-}
-#point-three-image {
-    width: 40%;
-    height: 300px;
-    float: left;
-    margin-left: 30px;
-
-    background: url(../images/awareness-image.jpg) no-repeat center center;
-    background-size: contain;
-
-}
-#point-three-heading {
-    margin-top: 300px;
-    font-size: large;
-
-}
-#point-four-image {
-    width: 40%;
-    height: 300px;
-    margin-top: 20%;
-    float: right;
-    margin-right: 30px;
-    
-
-    background: url(../images/vegetables-image.jpg) no-repeat center center;
-    background-size: contain;
-
-}
-#point-four-heading {
-    margin-top: 320px;
-    font-size: large;
-
-}
 
 p {
     text-align: justify;
@@ -331,15 +268,38 @@ p {
    padding: 50px;
    margin-top: 40px;
  }
-#heading-two {
-   padding-top: 30px;
-   background-color:rgb(155, 154, 154.07);
-   font-size: 170%;
-}
 .form-section {
     text-align: center;
     padding: 30px;
     display: block;
     
 }
-   
+
+iframe {
+    width: 57%;
+    height: 400px;
+}
+/* solutions css */
+#solutions-list {
+    background-color: rgb(155, 154, 154.07);
+    
+}
+#solutions-list .solutions-list-div {
+    padding: 30px;
+}
+#solutions-list .solutions-list-div.left {
+    text-align: left;
+}
+#solutions-list .solutions-list-div.right {
+    text-align: right;
+}
+#solutions-list-heading {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 130%;
+}
+#heading-two {
+    padding: 30px;
+    background-color:rgb(155, 154, 154.07);
+    font-size: 170%;
+}
