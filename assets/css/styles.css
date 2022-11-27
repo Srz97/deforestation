@@ -182,6 +182,7 @@ margin-top: 20px;
 
     background: url(../images/image-five.jpg) no-repeat center center;
     background-size: cover;
+    margin-top: 10%;
     
     
     }
@@ -398,6 +399,30 @@ margin-top: 443px;}
             float: none;
             margin-right: 0px;
             margin-left: 0px;
+        }
+        #block3 {
+            width: 100%;
+            float: none;
+            margin-right: 0px;
+            margin-left: 0px;
+        }
+        #block-right {
+            width: 100%;
+            float: none;
+            margin: 0;
+
+        }
+        #causes {
+            padding: 30px;
+            display: inline-block;
+            background-color: rgb(173, 144, 144);
+        }
+        #block4 {
+            width: 100%;
+            float: none;
+            margin-right: 0px;
+            margin-left: 0px;
+            
         }
     
 
