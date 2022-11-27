@@ -391,7 +391,7 @@ margin-top: 443px;}
     @media screen and (max-width:900px) {
 
         #left {
-            width: 100%;
+            width: 96%;
             float: none;
         }
         #block2 {
@@ -413,17 +413,24 @@ margin-top: 443px;}
 
         }
         #causes {
-            padding: 30px;
+           
             display: inline-block;
             background-color: rgb(173, 144, 144);
         }
         #block4 {
-            width: 100%;
+            width: 94%;
             float: none;
             margin-right: 0px;
             margin-left: 0px;
             
         }
-    
+        #reasons {
+            height: 100%;
+            padding-bottom: 30px;
+        }
+       #button {
+        margin-top: 151px;
 
+       }
+      
     }
