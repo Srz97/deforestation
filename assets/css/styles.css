@@ -7,6 +7,7 @@
 header {
     display: inline-block;
     width: 100%;
+    
 }
 header .logo-main {
     display: inline-block;
@@ -474,6 +475,13 @@ min-height: 600px;
 
         }
        }
+       @media screen and (max-width:800px)
+       { 
+        #menu {
+        display: none;
+       } 
+    }
+
        @media screen and (max-width:500px) {
         #cover-text{
             right:0;
@@ -491,26 +499,25 @@ min-height: 600px;
             float: right;
             list-style-type: none;
             margin-right: 10px;
+            
         }
-        #menu {
-            font-size: 100%;
-            letter-spacing: 2px;
+        h1 {
+            letter-spacing: 1px;
+            font-size: 160%;
+
         }
     }
     @media screen and (max-width:400px)
           {
             #header a {
                 font-size: 12px;
-            }
-          }
-          #menu {
-            display: none;
+            
           }
           #logo {
             line-height: 77px;
-            margin: 0;
+            margin-left: 10px;
             
-          }
+        }
           #cover-text {
             margin-right: 15px;
             font-size: 119%;
@@ -527,7 +534,5 @@ min-height: 600px;
             top: 264px;
             position: absolute;
         }
-        #h1 {
-            letter-spacing: 2px;
-        }
-    
+      
+    }
