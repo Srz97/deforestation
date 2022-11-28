@@ -128,6 +128,13 @@ h1, h2 {
     width: 33%;
     float: left;
 }
+    #left-about
+    {
+        padding-top: 30px;
+    width: 33%;
+    float: left;
+    }
+
 #block2 {
 
 width: 57%;
@@ -146,6 +153,10 @@ margin-right: 30px;
 }
 #wellcome {
 text-align: left;
+margin-top: 20px;
+}
+#wellcome-heading {
+    text-align: left;
 margin-top: 20px;
 }
 #second-image {
