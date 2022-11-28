@@ -46,30 +46,37 @@ The Deforestaion website is designed to be responsive website allowing visitors 
 
 ## User Experience (UX)
 
-Initial Discussion
+## Initial Discussion
+
 Deforestation is an online web page that informs and creates awarness amoung the user about the current rate of Deforestaion and steps which could be taken in order to protect our planet from ruthless cutting of trees.
 
-Due to a recent growth in membership and personal commitments, the owner of bully book club is spending a large amount of time answering questions from users asking what the book club is reading and how to participate.
 
-Key information for the site
-What is the current months book.
-What are the next books.
-How to become a member and take part.
-A way for people to contact the book club with questions and recommendations.
-Updates on what is coming to the book club in 2022.
-User Stories
-Client Goals
+
+## Key information for the site
+
+What is the current Rate of Deforestation.
+What are the Causes of Deforestation.
+Why should we Care about this issue.
+What are the steps should be taken.
+A way for people to know and be aware of the situation regarding Deforestation.
+
+
+
+## Client Goals.
 To be able to view the site on a range of device sizes.
-To make it easy for potential members to find out what the book club is and how to take part.
-To make it clear for members to see what we are currently reading and what is coming up next.
-To allow people to be able to contact the Book Club to ask further questions or with book recommendations etc.
+To make it easy for potential members to find out what happening with our planet and how to take part.
+To make it clear for members to see what is current Situation and what are the Solutions.
+To allow people to be able to take steps and recommendations etc.
 First Time Visitor Goals
-I want to find out what is Bully Book Club and how I can take part.
+I want to find out what is Deforestation website is aiming for and how I can take part.
 I want to be able to navigate the site easily to find information.
 I want to be able to find their Instagram profile.
 Returning Visitor Goals
-I want to find up to date information on what the book club is reading.
-I want to be able to easily contact the book club with questions I might have.
+I want to find up to the solutions.
 Frequent Visitor Goals
-I want to be able to recommend a book for the book club to read.
+I want to be able to recommend the webpage for to read.
+
+
+## Design
+
 
