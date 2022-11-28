@@ -503,5 +503,31 @@ min-height: 600px;
                 font-size: 12px;
             }
           }
-      
+          #menu {
+            display: none;
+          }
+          #logo {
+            line-height: 77px;
+            margin: 0;
+            
+          }
+          #cover-text {
+            margin-right: 15px;
+            font-size: 119%;
+            font-family: sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            width: 240px;
+            height: 162px;
+            padding-top: 40px;
+            padding-left: 22px;
+            padding-right: 10p;
+            background-color: rgba(241,109,107,.7);
+            bottom: 30px;
+            top: 264px;
+            position: absolute;
+        }
+        #h1 {
+            letter-spacing: 2px;
+        }
     
