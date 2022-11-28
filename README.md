@@ -2,7 +2,7 @@
 
 The Deforestaion website is designed to be responsive website allowing visitors to view on a range of devices. It allows visitors to find out about the Deforestation.
 
-
+<img src="https://srz97.github.io/deforestation/assets/images/screens.png">
 
 
 
@@ -46,14 +46,13 @@ The Deforestaion website is designed to be responsive website allowing visitors 
 
 ## User Experience (UX)
 
-<img src="https://srz97.github.io/deforestation/assets/images/screens.png">
-### Initial Discussion
+## Initial Discussion
 
 Deforestation is an online web page that informs and creates awarness amoung the user about the current rate of Deforestaion and steps which could be taken in order to protect our planet from ruthless cutting of trees.
 
 
 
-### Key information for the site
+## Key information for the site
 
 * What is the current Rate of Deforestation.
 * What are the Causes of Deforestation.
@@ -61,27 +60,34 @@ Deforestation is an online web page that informs and creates awarness amoung the
 * What are the steps should be taken.
 * A way for people to know and be aware of the situation regarding Deforestation.
 
+# User Stories
 
-
-### Client Goals. 
+## Client Goals. 
 
 * To be able to view the site on a range of device sizes.
 * To make it easy for potential members to find out what happening with our planet and how to take part.
 * To make it clear for members to see what is current Situation and what are the Solutions.
 * To allow people to be able to take steps and recommendations etc.
 
-###  First Time Visitor Goals
+##  First Time Visitor Goals
+
 * I want to find out what is Deforestation website is aiming for and how I can take part.
 * I want to be able to navigate the site easily to find information.
 * I want to be able to find their Instagram profile.
 
-### Returning Visitor Goals
+## Returning Visitor Goals
 
 * I want to find up to the solutions.
 * Frequent Visitor Goals
 * I want to be able to recommend the webpage for to read.
 
+## Frequent Visitor Goals
 
-## Design
+* I want to be able to recommend a book for the book club to read.
+
+# Design
+
+# Colour Scheme
+
 
 
