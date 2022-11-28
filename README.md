@@ -76,9 +76,9 @@ Deforestation is an online web page that informs and creates awarness amoung the
 
 ### Returning Visitor Goals
 
-I want to find up to the solutions.
-Frequent Visitor Goals
-I want to be able to recommend the webpage for to read.
+* I want to find up to the solutions.
+* Frequent Visitor Goals
+* I want to be able to recommend the webpage for to read.
 
 
 ## Design
