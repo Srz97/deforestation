@@ -20,7 +20,7 @@ text-decoration: none;
 body {
     font-family: lato, Helvetica, sans-serif;
     font-weight: 300;
-    color: r#3a3a3a;
+    color:#3a3a3a;
 }
 h1, h2 {
 
@@ -32,8 +32,7 @@ h1, h2 {
 
 }
 #logo {
-    float: left
-    font: size 280%;
+    float: left;
     margin-left: 30px;
     margin-bottom: 10px;
 
@@ -123,17 +122,19 @@ h1, h2 {
     background-color: rgb(83, 161, 93,.7);
     
 }
+#inner-reasons {
+    display: inline-block;
+}
 #left {
     padding-top: 30px;
     width: 33%;
     float: left;
 }
-    #left-about
-    {
-        padding-top: 30px;
+#left-about {
+    padding-top: 30px;
     width: 33%;
-    float: left;
-    }
+    display: inline-block;
+}
 
 #block2 {
 
@@ -217,7 +218,7 @@ margin-right: 30px;
 }
     
 
-}
+
 /* footer */
 footer {
     height: 150px;
@@ -287,8 +288,6 @@ p {
     background-size: cover;
 }
    
-   
- }
 .form-section {
     text-align: center;
     padding: 30px;
@@ -300,7 +299,13 @@ iframe {
     width: 100%;
     height: 400px;
 }
+.sing-up-link
+{
+    display: block;
+}
+
 /* solutions css */
+
 #solutions-list {
     background-color: rgb(155, 154, 154.07);
     padding-bottom: 30px;
@@ -308,15 +313,23 @@ iframe {
 }
 #solutions-list .solutions-list-div {
     padding: 30px;
+    
 }
 #solutions-list .solutions-list-div.left {
     text-align: left;
+    
 }
+#solutions-list img{
+ width: 650px;
+}
+
 #solutions-list .solutions-list-div.right {
     text-align: right;
     margin-top: -300px;
 }
-#solutions-list-heading {
+
+
+#solutions-list h3 {
     margin-left: 100px;
     margin-right: 100px;
     font-size: 130%;
@@ -336,7 +349,7 @@ iframe {
     text-align: center;
     font-size: larger;
     line-height: 2em;
-    padding: auto;
+    padding:0;
 }
 form {
     
@@ -374,6 +387,9 @@ min-height: 600px;
 #sign-up {
    margin-top: 20px;
 }
+.inner-reasons {
+    min-height: 450px;
+}
 #button {
     display: block;
     margin: auto;
@@ -389,7 +405,7 @@ min-height: 600px;
      text-align: center;
     text-decoration: none;
     
-margin-top: 443px;}
+}
 
     /* Media quries */
 
@@ -429,8 +445,8 @@ margin-top: 443px;}
             display: table-cell;
             background-color: rgb(173, 144, 144);
         }
-        #block4 {
-            width: 94%;
+        #reasons #block4 {
+            width: 100%;
             float: none;
             margin-right: 0px;
             margin-left: 0px;
@@ -438,11 +454,26 @@ margin-top: 443px;}
         }
         #reasons {
             height: 100%;
-            padding-bottom: 30px;
+            padding: 30px;
+        }
+        #reasons #left-about {
+            width: 100%;
         }
        #button {
-        margin-top: 151px;
+        margin-top: 50px;
 
        }
-      
+       #video-div {
+        width: 100%;
+       }
     }
+       @media screen and (max-width:900px)
+       {
+        #solutions-list img{
+            width: 100%;
+
+        }
+       }
+          
+      
+    
