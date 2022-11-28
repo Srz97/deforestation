@@ -89,5 +89,14 @@ Deforestation is an online web page that informs and creates awarness amoung the
 
 # Colour Scheme
 
+<img src="https://srz97.github.io/deforestation/assets/images/colors-image.png">
 
+# Typography
 
+* Google Fonts was used for the following fonts:
+* lato, Helvetica is used for headings and body on the site. It is a serif font.
+* Font awsome is used for the icons.
+
+# Imagery 
+
+* The member images were used with the permission of their owners. All covers were taken from the websites. I have credited [pexels]https://www.pexels.com/
