@@ -46,6 +46,7 @@ The Deforestaion website is designed to be responsive website allowing visitors 
 
 ## User Experience (UX)
 
+<img src="https://srz97.github.io/deforestation/assets/images/screens.png">
 ### Initial Discussion
 
 Deforestation is an online web page that informs and creates awarness amoung the user about the current rate of Deforestaion and steps which could be taken in order to protect our planet from ruthless cutting of trees.
