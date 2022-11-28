@@ -474,6 +474,30 @@ min-height: 600px;
 
         }
        }
+       @media screen and (max-width:500px) {
+        #cover-text{
+            right:0;
+
+        }
+        #hero-image {
+            height: 400px;
+        }
+        header nav {
+            float: none;
+            width: 100%;
+            display: block;
+        }
+        #menu li {
+            float: right;
+            list-style-type: none;
+            margin-right: 10px;
+        }
+        #menu {
+            font-size: 100%;
+            letter-spacing: 2px;
+        }
+    }
+
           
       
     
