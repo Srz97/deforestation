@@ -99,4 +99,15 @@ Deforestation is an online web page that informs and creates awarness amoung the
 
 # Imagery 
 
-* The member images were used with the permission of their owners. All covers were taken from the websites. I have credited [pexels]https://www.pexels.com/
+* The member images were used with the permission of their owners. All covers were taken from the websites. I have credited [pexels](https://www.pexels.com/)
+
+# Features 
+
+* The website is comprised of three pages, three of which are accessible from the navigation menu (Current Situation, Solutions page & form page). 
+
+All Pages on the website have:
+
+To allow a good user experience of the site, the Deforestation Website responsive along with an navigation bar on the top right and a button in the end leading towards the next page (Solutions).The web page is having slightly different layout on tablet and mobile phones in order to give the site a clean look and to promote a good user experience.
+
+A footer which contains social media icon links to Instagram, Facebook and Twitter. Icons were used to keep the footer clean and because they are universally recognisable.
+
