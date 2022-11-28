@@ -103,11 +103,64 @@ Deforestation is an online web page that informs and creates awarness amoung the
 
 # Features 
 
-* The website is comprised of three pages, three of which are accessible from the navigation menu (Current Situation, Solutions page & form page). 
+The website is comprised of three pages, three of which are accessible from the navigation menu (Current Situation, Solutions page & form page). 
 
-All Pages on the website have:
+* All Pages on the website have:
 
-To allow a good user experience of the site, the Deforestation Website responsive along with an navigation bar on the top right and a button in the end leading towards the next page (Solutions).The web page is having slightly different layout on tablet and mobile phones in order to give the site a clean look and to promote a good user experience.
+** A responsive navigation bar at the top which allows the user to navigate through the site to allow a good user experience of the site, The Deforestation titel which is responsive along with an navigation bar on the top right and a button in the end leading towards the next page.The web page is having slightly different layout on tablet and mobile phones in order to give the site a clean look and to promote a good user experience.
 
-A footer which contains social media icon links to Instagram, Facebook and Twitter. Icons were used to keep the footer clean and because they are universally recognisable.
+** A footer which contains social media icon links to Instagram, Facebook and Twitter. Icons were used to keep the footer clean and because they are universally recognisable.
+
+* Home Page 
+
+* The Home Page consist of four different Sections
+
+** The title along with a catchy subheading and a picture in the background.
+** The Current Situation Section.Briefly describes about whats going on right now along with a piuture attched.
+** The Causes Section.Gives User more information What are the Causes? anlong with an interesting image.
+** The Reasons Section.Which allows the to know why should they be concerned.And then their is a video attched along
+which ease the user experience regarding the topic.
+
+* Solutions Page 
+
+** Consist of Four different motivational Images along with a persuading captions and icons to create more interest and motivate the user. 
+
+* Form Page 
+** The Sing Up form which allows the user to put in their Information.
+
+## Accessibility
+
+I have been mindful during coding to ensure that the website is as accessible friendly as possible. I have achieved this by:
+
+Using semantic HTML.
+Using descriptive alt attributes on images on the site.
+Providing information for screen readers where there are icons used and no text.
+Ensuring that there is a sufficient colour contrast throughout the site.
+Ensuring menus are accessible by marking the current page as current for screen readers.
+
+# Technologies Used
+
+* HTML and CSS were used to create this website.
+
+* Frameworks, Libraries & Programs Used
+
+* Git - For version control.
+
+* Github - To save and store the files for the website.
+
+ * Bootstrap Version 4.6 - The framework for the website. Code for the navigation bar, carousel, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
+
+* Google Fonts - To import the fonts used on the website.
+
+* Font Awesome - For the iconography on the website.
+
+* Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+
+* [Am I Responsive?](https://ui.dev/amiresponsive?url=https://srz97.github.io/deforestation/)To show the website image on a range of devices.
+
+
+
+
+
+
 
