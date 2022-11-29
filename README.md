@@ -175,12 +175,12 @@ Ensuring menus are accessible by marking the current page as current for screen 
 # Deployment 
 * Github Pages was used to deploy the live website. The instructions to achieve this are below:
 
-Log in (or sign up) to Github.
-Find the repository for this project, Deforestation.
-Click on the Settings link.
-Click on the Pages link in the left hand side navigation bar.
-In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
-Click Save. Your live Github Pages site is now deployed at the URL shown.
+* * Log in (or sign up) to Github.
+* * Find the repository for this project, Deforestation.
+* * Click on the Settings link.
+* * Click on the Pages link in the left hand side navigation bar.
+* * In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+* * Click Save. Your live Github Pages site is now deployed at the URL shown.
 
 
 
