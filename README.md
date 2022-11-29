@@ -2,7 +2,7 @@
 
 The Deforestaion website is designed to be responsive website allowing visitors to view on a range of devices. It allows visitors to find out about the Deforestation.
 
-<img src="https://srz97.github.io/deforestation/assets/images/screens-image.png">
+<img src="https://srz97.github.io/deforestation/assets/images/screen.png">
 
 
 
