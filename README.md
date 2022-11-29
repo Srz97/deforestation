@@ -20,24 +20,20 @@ The Deforestaion website is designed to be responsive website allowing visitors 
 
 * [Features](#features)
   * [General Features on Each Page](#general-features-on-each-page)
-  * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
 
 * [Technologies Used](#technologies-used)
-  * [Languages Used](#languages-used)
-  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
+* [Languages Used](#languages-used)
 
-* [Deployment & Local Development](#deployment--local-development)
-  * [Deployment](#deployment)
 
-* [Testing](#testing)
+## [Deployment](#deployment)
 
-* [Credits](#credits)
-  * [Code Used](#code-used)
-  * [Content](#content)
+ * [Testing](#testing)
+
+ * [Credits](#credits)
+  
   * [Media](#media)
-  * [Acknowledgments](#acknowledgments)
-
+ 
 
 
 ## User Experience (UX)
@@ -137,9 +133,12 @@ Providing information for screen readers where there are icons used and no text.
 Ensuring that there is a sufficient colour contrast throughout the site.
 Ensuring menus are accessible by marking the current page as current for screen readers.
 
-# Technologies Used
-
+# Languages Used
 * HTML and CSS were used to create this website.
+
+
+# Technologies Used
+ 
 
 * Frameworks, Libraries & Programs Used
 
@@ -183,8 +182,13 @@ Ensuring menus are accessible by marking the current page as current for screen 
 * * In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
 * * Click Save. Your live Github Pages site is now deployed at the URL shown.
 
+# Credits
 
+* The code to create Form and social Media Link was taken from [Love Running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/f2db5fd401004fccb43b01a6066a5333/) project.
 
+# Media 
+
+* All images used in the project Deforestation are from [Pexels](https://www.pexels.com/)
 
 
 
