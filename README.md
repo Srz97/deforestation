@@ -39,7 +39,7 @@ The Deforestaion website is designed to be responsive website allowing visitors 
 ## User Experience (UX)
 
 ## Website Intentions
- To enhance user knowledge and create awarenes about the Ruthless cutting of tress’s and destruction of forests which leads to motivates an individual being along with the idea to take few easy steps.The prosperous benefits of implementing on some simple steps would be fruit-full for every one with the passage of time.
+To enhance user knowledge and create awarenes about destruction of forests which leads to motivates an individual being along with the idea to take few easy steps.The prosperous benefits of implementing on some simple steps would be fruit-full for every one with the passage of time.
 
 ## Initial Discussion
 
