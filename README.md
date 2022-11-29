@@ -29,9 +29,6 @@ The Deforestaion website is designed to be responsive website allowing visitors 
 
 * [Deployment & Local Development](#deployment--local-development)
   * [Deployment](#deployment)
-  * [Local Development](#local-development)
-    * [How to Fork](#how-to-fork)
-    * [How to Clone](#how-to-clone)
 
 * [Testing](#testing)
 
