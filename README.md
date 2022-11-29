@@ -93,12 +93,12 @@ Deforestation is an online web page that informs and creates awarness amoung the
 
 * The member images were used with the permission of their owners. All covers were taken from the websites. I have credited [pexels](https://www.pexels.com/)
 
-# Features 
-
-The website is comprised of three pages, three of which are accessible from the navigation menu (Current Situation, Solutions page & form page). 
 
 
 # General Features on Each Page
+
+* The website is comprised of three pages, three of which are accessible from the navigation menu (Current Situation, Solutions page & form page). 
+
 
 * All Pages on the website have:
 
