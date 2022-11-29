@@ -185,6 +185,8 @@ Ensuring menus are accessible by marking the current page as current for screen 
 # Credits
 
 * The code to create Form and social Media Link was taken from [Love Running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/f2db5fd401004fccb43b01a6066a5333/) project.
+* [Google](https://www.google.com/) Search Engine was used for the Facts.
+* [WWF](https://www.worldwildlife.org/threats/deforestation-and-forest-degradation) was used for the information.
 
 # Media 
 
