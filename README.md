@@ -2,7 +2,7 @@
 
 The Deforestaion website is designed to be responsive website allowing visitors to view on a range of devices. It allows visitors to find out about the Deforestation.
 
-<img src="https://srz97.github.io/deforestation/assets/images/screens.png">
+<img src="https://srz97.github.io/deforestation/assets/images/screens-image.png">
 
 
 
@@ -16,8 +16,7 @@ The Deforestaion website is designed to be responsive website allowing visitors 
 * [Design](#design)
   * [Colour Scheme](#colour-scheme)
   * [Typography](#typography)
-  * [Imagery](#imagery)
-  * [Wireframes](#wireframes)
+  
 
 * [Features](#features)
   * [General Features on Each Page](#general-features-on-each-page)
@@ -105,28 +104,31 @@ Deforestation is an online web page that informs and creates awarness amoung the
 
 The website is comprised of three pages, three of which are accessible from the navigation menu (Current Situation, Solutions page & form page). 
 
+
+# General Features on Each Page
+
 * All Pages on the website have:
 
-** A responsive navigation bar at the top which allows the user to navigate through the site to allow a good user experience of the site, The Deforestation titel which is responsive along with an navigation bar on the top right and a button in the end leading towards the next page.The web page is having slightly different layout on tablet and mobile phones in order to give the site a clean look and to promote a good user experience.
+* * A responsive navigation bar at the top which allows the user to navigate through the site to allow a good user experience of the site, The Deforestation titel which is responsive along with an navigation bar on the top right and a button in the end leading towards the next page.The web page is having slightly different layout on tablet and mobile phones in order to give the site a clean look and to promote a good user experience.
 
-** A footer which contains social media icon links to Instagram, Facebook and Twitter. Icons were used to keep the footer clean and because they are universally recognisable.
+* * A footer which contains social media icon links to Instagram, Facebook and Twitter. Icons were used to keep the footer clean and because they are universally recognisable.
 
 * Home Page 
 
-* The Home Page consist of four different Sections
-
-** The title along with a catchy subheading and a picture in the background.
-** The Current Situation Section.Briefly describes about whats going on right now along with a piuture attched.
-** The Causes Section.Gives User more information What are the Causes? anlong with an interesting image.
-** The Reasons Section.Which allows the to know why should they be concerned.And then their is a video attched along
+* * The heading on the top right corner along with a nav bar on the right side. consist of four different Sections
+* * The title along with a catchy sub-heading and a picture in the background.
+* * The Current Situation Section.Briefly describes about whats going on right now along with a piuture attched.
+* * The Causes Section.Gives User more information What are the Causes? anlong with an interesting image.
+* * The Reasons Section.Which allows the to know why should they be concerned.And then their is a video attched along
 which ease the user experience regarding the topic.
 
 * Solutions Page 
 
-** Consist of Four different motivational Images along with a persuading captions and icons to create more interest and motivate the user. 
+* * Title and the background images gives the user a reason of their current presence at the site.
+* * Then it consists of Four different motivational Images along with a persuading captions and icons attched to create more interest and motivate the user. 
 
 * Form Page 
-** The Sing Up form which allows the user to put in their Information.
+* * The Sing Up form which allows the user to put in their Information.
 
 ## Accessibility
 
@@ -158,6 +160,27 @@ Ensuring menus are accessible by marking the current page as current for screen 
 
 * [Am I Responsive?](https://ui.dev/amiresponsive?url=https://srz97.github.io/deforestation/)To show the website image on a range of devices.
 
+# Testing
+ 
+* I tested that this project works responsive, looks good and funcional on all standard screen sizes using the divtools devie tool bar.
+* I have confirmed that the navigation works on the large screen and the buttons on the smaller screens
+* I checked the form works acurately. 
+
+# W3C Validator
+* The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
+
+# Unfixed Bugs 
+* No unfixed bugs
+
+# Deployment 
+* Github Pages was used to deploy the live website. The instructions to achieve this are below:
+
+Log in (or sign up) to Github.
+Find the repository for this project, Deforestation.
+Click on the Settings link.
+Click on the Pages link in the left hand side navigation bar.
+In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+Click Save. Your live Github Pages site is now deployed at the URL shown.
 
 
 
