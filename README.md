@@ -6,7 +6,7 @@ The Deforestaion website is designed to be responsive website allowing visitors 
 
 
 
-
+* View [Deforestation](https://srz97.github.io/deforestation/) page here.
 
 ## CONTENTS
 
@@ -165,6 +165,10 @@ Ensuring menus are accessible by marking the current page as current for screen 
 * I tested that this project works responsive, looks good and funcional on all standard screen sizes using the divtools devie tool bar.
 * I have confirmed that the navigation works on the large screen and the buttons on the smaller screens
 * I checked the form works acurately. 
+
+
+<img src="https://srz97.github.io/deforestation/assets/images/test-image.png">
+
 
 # W3C Validator
 * The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
