@@ -126,7 +126,7 @@ which ease the user experience regarding the topic.
  
 * Form Page 
 * * The Sing Up form which allows the user to put in their Information.
-* 
+
  <img src="https://srz97.github.io/deforestation/assets/images/form-image.png">
 
 ## Accessibility
