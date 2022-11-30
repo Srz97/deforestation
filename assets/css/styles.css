@@ -320,24 +320,9 @@ iframe {
     flex-direction: column;
     
 }
-#solutions-list .solutions-list-div {
-    padding: 30px;
-    
-}
-#solutions-list .solutions-list-div.left {
-    text-align: left;
-    
-}
 #solutions-list img{
  width: 650px;
 }
-
-#solutions-list .solutions-list-div.right {
-    text-align: right;
-    margin-top: -300px;
-}
-
-
 #solutions-list h3 {
     margin-left: 100px;
     margin-right: 100px;
