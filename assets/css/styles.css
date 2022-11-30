@@ -313,20 +313,52 @@ iframe {
 
 #solutions-list {
     background-color: rgb(155, 154, 154.07);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    
+}
+.tree{
     padding-bottom: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    
 }
+.office {
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.awareness {
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.vegetables {
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+#solutions-list p{
+    text-align: center;
+}
+
 #solutions-list img{
  width: 650px;
 }
 #solutions-list h3 {
-    margin-left: 100px;
-    margin-right: 100px;
     font-size: 130%;
+    text-align: center;
 }
 #heading-two {
     padding: 30px;
