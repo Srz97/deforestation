@@ -38,9 +38,6 @@ The Deforestaion website is designed to be responsive website allowing visitors 
 
 ## User Experience (UX)
 
-## Website Intentions
-To enhance user knowledge and create awarenes about destruction of forests which leads to motivates an individual being along with the idea to take few easy steps.The prosperous benefits of implementing on some simple steps would be fruit-full for every one with the passage of time.
-
 ## Initial Discussion
 
 Deforestation is an online web page that informs and creates awarness amoung the user about the current rate of Deforestaion and steps which could be taken in order to protect our planet from ruthless cutting of trees.
@@ -118,13 +115,19 @@ Deforestation is an online web page that informs and creates awarness amoung the
 * * The Reasons Section.Which allows the to know why should they be concerned.And then their is a video attched along
 which ease the user experience regarding the topic.
 
+<img src="https://srz97.github.io/deforestation/assets/images/home.png">
+
 * Solutions Page 
 
 * * Title and the background images gives the user a reason of their current presence at the site.
 * * Then it consists of Four different motivational Images along with a persuading captions and icons attched to create more interest and motivate the user. 
-
+ 
+ <img src="https://srz97.github.io/deforestation/assets/images/second-page.png">
+ 
 * Form Page 
 * * The Sing Up form which allows the user to put in their Information.
+* 
+ <img src="https://srz97.github.io/deforestation/assets/images/form-image.png">
 
 ## Accessibility
 
@@ -166,11 +169,13 @@ Ensuring menus are accessible by marking the current page as current for screen 
 * I checked the form works acurately. 
 
 
-<img src="https://srz97.github.io/deforestation/assets/images/test-image.png">
+<img src="https://srz97.github.io/deforestation/assets/images/light-house.png">
 
 
 # W3C Validator
 * The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
+
+<img src="https://srz97.github.io/deforestation/assets/images/w3c-html.png">
 
 # Unfixed Bugs 
 * No unfixed bugs
