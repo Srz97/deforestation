@@ -380,11 +380,11 @@ iframe {
 form {
     
     background: rgba(100, 93, 82, 0.479);
-    width: 30%;
+    width: 37%;
     margin-left: auto;
     margin-right: auto;
     padding: 30px;
-    height: 300px;
+    height: 400px;
 }
 .form-section {
     
@@ -392,6 +392,7 @@ color: #fff;
 background: url(../images/plants-image.jpg) no-repeat center center;
 background-size: cover;
 min-height: 600px;
+
  }
 .form-heading {
     color: #fff;
@@ -531,6 +532,17 @@ min-height: 600px;
             font-size: 160%;
 
         }
+        #solutions-text{
+        margin-top: 38%;
+    margin-right: 31%;
+           }
+           .form-text label {
+            text-align: right;
+            display: inline-block;
+            font-size: medium;
+        }
+        #copyrights {
+            font-size: small;
     }
     @media screen and (max-width:400px)
           {
