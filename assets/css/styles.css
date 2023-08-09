@@ -145,7 +145,8 @@ h1, h2 {
 }
 
 .text-box h2 {
-    margin-bottom: 10px; /* Add spacing below the heading */
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 .text {
