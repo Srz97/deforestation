@@ -175,72 +175,45 @@ h1, h2 {
 }
 
 #reasons {
-    padding-top: 30px;
-    padding-left: 30px;
-    
-    height: 600px;
     background-color: rgba(146, 160, 148, 0.7);
-
-}
-#block4 {
-    width: 57%;
-float: right;
-border-style: solid;
-border-color: #3a3a3a;
-background-color: #fff;
-height: 400px;
-margin-right: 30px;
+    text-align: center;
+    padding: 50px 0; /* Adjust the padding as needed */
 }
 
-#solutions-title {
-    width: 100%;
-    text-align: center
-    
-    
+#reasons .content-box {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
 }
-#solutions-text {
-   
-    list-style: none;
-    font-size: large;
-    font-size: 130%;
+
+#reasons .section-heading {
+    color: #3a3a3a;
     font-family: sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    overflow: hidden;
-    margin-top: 15%;
-    float: left;
-    margin-left: 30px;   
+    margin-bottom: 20px;
 }
 
-#solutions-image
-{
-    height: 700px;
-    width: 100%;
-    display: block;
-    overflow: hidden;
-    
-    background: url(../images/solutions-image.jpg) no-repeat center center;
-   
-
-    background-size: cover;
-    
-}
-#solutions {
-    background-color:rgba(146, 160, 148, 0.7);
-    height: 600px;
-}
-
-p {
+#reasons .text p {
     text-align: justify;
     line-height: 1.5em;
     margin-bottom: 15px;
-    font-size: 1.2em;
 }
-.video-div {
-    height: 400px;
-    margin-top: 0;
-    background-size: cover;
+
+.video-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
 }
+.video-wrapper iframe {
+    width: 100%; /* Set the video width to 100% */
+    max-height: 400px; /* Set the maximum height of the video */
+}
+
+#button {
+    margin-top: 20px;
+}
+
 /* footer */
 footer {
     height: 150px;
