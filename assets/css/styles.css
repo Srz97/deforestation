@@ -278,37 +278,38 @@ iframe {
     height: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start; /* Align content to top */
-    align-items: flex-start; /* Align content to left */
+    justify-content: flex-start;
+    align-items: flex-start;
     padding: 20px;
- }
+}
 
- #solutions-title .overlay .heading {
+#solutions-title .overlay .heading {
     margin: 0;
     padding: 0;
     font-size: 36px;
- }
+}
 
 #solutions-title h1 {
     margin: 0;
 }
 
 #solutions-list {
-    background-color: rgb(155, 154, 154.07);
+    background-color: rgb(155, 154, 154, 0.65); /* Updated background color with opacity */
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     padding: 30px;
-    
 }
-.tree{
+
+.tree {
     padding-bottom: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
+
 .office {
     padding-bottom: 30px;
     display: flex;
@@ -316,6 +317,7 @@ iframe {
     align-items: center;
     flex-direction: column;
 }
+
 .awareness {
     padding-bottom: 30px;
     display: flex;
@@ -323,6 +325,7 @@ iframe {
     align-items: center;
     flex-direction: column;
 }
+
 .vegetables {
     padding-bottom: 30px;
     display: flex;
@@ -330,20 +333,33 @@ iframe {
     align-items: center;
     flex-direction: column;
 }
-#solutions-list p{
+
+#solutions-list p {
     text-align: center;
 }
 
-#solutions-list img{
- width: 650px;
+#solutions-list img {
+    width: 650px;
 }
+
 #solutions-list h3 {
-    font-size: 130%;
     text-align: center;
+    margin-bottom: 10px; /* Add margin to create space below the heading */
+    margin-top: 10px;
+    font-size: 1.2em;
+    line-height: 1.6;
 }
+
+#solutions-list p {
+    font-weight: bold; /* Add font-weight property for bold text */
+    text-align: center;
+    margin-top: 10px;
+    font-size: large;
+    /* Add margin to create space above the paragraph */
+}
+
 #heading-two {
     padding: 30px;
-    background-color:rgb(155, 154, 154.07);
     font-size: 170%;
     text-align: center;
 }
