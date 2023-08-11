@@ -369,10 +369,9 @@ iframe {
     font-size: 170%;
     text-align: center;
 }
-
-/* form css */
  
 /* Style for the form section */
+
 .form-section {
     color: #fff;
     background: url(../images/plants-image.jpg) no-repeat center center;
@@ -436,6 +435,24 @@ form {
 
 #sign-up:hover {
     background-color: #3a3a3a; /* Darken on hover */
+}
+
+/* Bottom button styling */
+#button {
+    display: block;
+    margin: auto;
+    padding: 20px;
+    font-size: 100%;
+    font-family: inherit;
+    background-color: #202020;
+    color: #FDF5E6;
+    border-radius: 25% 10%;
+    text-transform: uppercase;
+    font-weight: 600;
+    width: 200px;
+     text-align: center;
+    text-decoration: none;
+    
 }
 
 /* Footer styling */
