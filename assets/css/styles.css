@@ -372,66 +372,98 @@ iframe {
 
 /* form css */
  
-.form-text {
-    text-align: center;
-    font-size: larger;
-    line-height: 2em;
-    padding:0;
-}
-form {
-    
-    background: rgba(100, 93, 82, 0.479);
-    width: 37%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 30px;
-    height: 400px;
-}
+/* Style for the form section */
 .form-section {
-    
-color: #fff;
-background: url(../images/plants-image.jpg) no-repeat center center;
-background-size: cover;
-min-height: 600px;
-
- }
-.form-heading {
     color: #fff;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    background: url(../images/plants-image.jpg) no-repeat center center;
+    background-size: cover;
+    min-height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
-.form-text input {
 
-    cursor: pointer;
-    padding: 5px 10px;
-    border-radius: 10px;
-}
-.form-text label {
-    text-align: right;
-    display: inline-block;
-    width: 130px;
-}
-#sign-up {
-   margin-top: 20px;
-}
-.inner-reasons {
-    min-height: 450px;
-}
-#button {
-    display: block;
+/* Form styling */
+form {
+    background: rgb(187 181 170 / 93%);
+    width: 50%;
+    max-width: 600px;
     margin: auto;
-    padding: 20px;
-    font-size: 100%;
-    font-family: inherit;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.form-heading {
+    text-align: center; 
+    padding-bottom: 20px;
+    font-size: 24px;
+}
+
+.form-text {
+    text-align: left; 
+    margin-bottom: 15px;
+}
+
+.form-text label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.form-text input {
+    width: 100%; 
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+}
+
+#sign-up {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
     background-color: #202020;
     color: #FDF5E6;
-    border-radius: 25% 10%;
-    text-transform: uppercase;
-    font-weight: 600;
-    width: 200px;
-     text-align: center;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#sign-up:hover {
+    background-color: #3a3a3a; /* Darken on hover */
+}
+
+/* Footer styling */
+footer {
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.social-networks {
+    list-style: none;
+    padding: 0;
+}
+
+.social-networks li {
+    display: inline-block;
+    margin-right: 15px;
+    font-size: 24px;
+}
+
+.social-networks a {
+    color: #fff;
     text-decoration: none;
-    
+}
+
+#copyrights {
+    margin-top: 10px;
+    font-size: 14px;
 }
 
     /* Media quries */
