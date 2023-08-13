@@ -107,7 +107,7 @@ Deforestation is an online web page that informs and creates awarness amoung the
 * Navigation Button: At the bottom of the page, a strategically placed button encourages users to take the next step by leading them to the "Current Situation" page. This design choice facilitates a smooth flow of information.
 
 * Footer: The footer is equipped with social media icons linked to Instagram, Facebook, and Twitter. These universally recognizable icons provide visitors with the opportunity to engage further and stay updated on relevant content.
-
+#  Home Page
 ![Image One](assets/images/image-one.png)
  * The heading on the top right corner along with a nav bar on the right side. consist of four different Sections
  * The title along with a catchy sub-heading and a picture in the background.
@@ -119,9 +119,9 @@ Deforestation is an online web page that informs and creates awarness amoung the
 
 * The Current Situation Section.Briefly describes about whats going on right now And then their is a video attched along
 which ease the user experience regarding the topic.
-
+#  Solutions Page 
  ![Image One](assets/images/image-four.png)
-* Solutions Page 
+
 
 * * Title and the background images gives the user a reason of their current presence at the site.
  
@@ -130,9 +130,9 @@ which ease the user experience regarding the topic.
 * * Then it consists of Four different motivational Images along with a persuading captions and icons attched to create more interest and motivate the user. 
  
  
-* Form Page 
+# Form Page 
+![Image One](assets/images/image-seven.png)
 * * The Sing Up form which allows the user to put in their Information.
- ![Image One](assets/images/image-seven.png)
  
 
 ## Accessibility
@@ -146,7 +146,7 @@ Ensuring that there is a sufficient colour contrast throughout the site.
 Ensuring menus are accessible by marking the current page as current for screen readers.
 
 # Languages Used
-* HTML and CSS were used to create this website.
+* HTML CSS and Jawascript were used to create this website.
 
 
 # Technologies Used
