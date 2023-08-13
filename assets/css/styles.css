@@ -506,7 +506,31 @@ footer {
     top: 330px;
     position: absolute;
 }
+#current-situation {
+    padding: 20px 0;
 }
+.text-box {
+    font-size: small;
+    padding: 25px;
+}
+.content-box {
+    font-size: small;
+}
+#button {
+    padding: 15px;
+}
+#solutions-title .overlay {
+    height: 35%;
+    left: -15px;
+}
+#solutions-title .overlay .cloud-text {
+    font-size: 28px;
+}
+.form-section {
+    min-height: 510px;
+}
+
+
 @media screen and (max-width: 700px) {
     
 }
