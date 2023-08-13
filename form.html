@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Meta tags for character set, compatibility, viewport, and SEO -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,15 +9,20 @@
     <meta name="keywords" content="Deforestation, stop cutting trees,">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- Font Awesome icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+    <!-- Custom styles -->
     <link rel="stylesheet" href="assets/css/styles.css">
+
+    <!-- Favicon and title -->
     <link rel="favicon" href="favicon.ico">
     <title>Deforestation</title>
 </head>
 <body>
     <!-- Header section -->
     <header>
+        <!-- Logo and main navigation -->
         <div class="logo-main">
             <a href="index.html"><h1 id="logo">Deforestation</h1></a>
         </div>
@@ -28,23 +34,21 @@
             </ul>
         </nav>
 
-        <!-- Simulate a smartphone / tablet -->
-       <div class="mobile-container">
-
-    <!-- Top Navigation Menu -->
-    <div class="topnav">
-      <a href="#home" class="active">Deforestation</a>
-      <div id="myLinks">
-        <a href="index.html">Home</a>
-        <a href="solutions.html">Solution</a>
-        <a href="index.html#wellcome">Current Situation</a>
-      </div>
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-        <i class="fa fa-bars"></i>
-      </a>
-    </div>
+        <!-- Mobile navigation -->
+        <div class="mobile-container">
+            <div class="topnav">
+                <a href="#home" class="active">Deforestation</a>
+                <div id="myLinks">
+                    <a href="index.html">Home</a>
+                    <a href="solutions.html">Solution</a>
+                    <a href="index.html#wellcome">Current Situation</a>
+                </div>
+                <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                    <i class="fa fa-bars"></i>
+                </a>
+            </div>
+        </div>
     </header>
-
     
     <!-- Sign Up Form section -->
     <section class="form-section">
@@ -52,20 +56,25 @@
             <form method="post" action="https://formdump.codeinstitute.net/">
                 <h2 class="form-heading">Let's get you signed up!</h2>
 
+                <!-- First Name Input -->
                 <div class="form-text">
                     <label for="fname">First Name</label>
                     <input type="text" id="fname" name="first_name" required>
                 </div>
 
+                <!-- Last Name Input -->
                 <div class="form-text">
                     <label for="lname">Last Name</label>
                     <input type="text" id="lname" name="last_name" required>
                 </div>
+
+                <!-- Email Address Input -->
                 <div class="form-text" >
                     <label for="email">Email Address</label>
                     <input type="email" id="email" name="email_address" required>
                 </div>
 
+                <!-- Submit Button -->
                 <div class="form-text">
                     <input id="sign-up" type="submit" value="Sign Up">
                 </div>
@@ -75,10 +84,12 @@
    
     <!-- Footer section -->
     <footer>
+        <!-- Social Networks -->
         <ul class="social-networks">
             <li>
-                <a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)"></a>
-                <i class="fa-brands fa-facebook"></i>
+                <a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)">
+                    <i class="fa-brands fa-facebook"></i>
+                </a>
             </li>
             <li>
                 <a href="https://twitter.com/?lang=sv" target="_blank" rel="noopener" aria-label="Visit our Twitter page (opens in a new tab)">
@@ -91,10 +102,13 @@
                 </a>
             </li>
         </ul>
+
+        <!-- Copyright Information -->
         <p id="copyrights">Copyrights reserved - Sharaiz Shah 2022</p>
     </footer>
     <script src="https://kit.fontawesome.com/6618333e0a.js" crossorigin="anonymous"></script>
 
+    <!-- JavaScript function for mobile navigation -->
     <script>
         function myFunction() {
           var x = document.getElementById("myLinks");
@@ -104,6 +118,6 @@
             x.style.display = "block";
           }
         }
-        </script>
+    </script>
 </body>
 </html>

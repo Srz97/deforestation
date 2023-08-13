@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="club to help stop Deforestation">
     <meta name="keywords" content="Deforestation, stop cutting trees,">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Link to external CSS -->
     <link rel="stylesheet" href="assets/css/styles.css">
@@ -27,6 +28,20 @@
                 <li><a href="index.html#wellcome">Current Situation</a></li>
             </ul>
         </nav>
+       <!-- Mobile navigation -->
+       <div class="mobile-container">
+        <div class="topnav">
+            <a href="#home" class="active">Deforestation</a>
+            <div id="myLinks">
+                <a href="index.html">Home</a>
+                <a href="solutions.html">Solution</a>
+                <a href="index.html#wellcome">Current Situation</a>
+            </div>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <i class="fa fa-bars"></i>
+            </a>
+        </div>
+    </div>
     </header>
     
     <!-- Title section -->
@@ -97,5 +112,16 @@
     </footer>
     <!-- Font Awesome Script -->
     <script src="https://kit.fontawesome.com/6618333e0a.js" crossorigin="anonymous"></script>
+    <!-- Mobile navigation script -->
+    <script>
+        function myFunction() {
+            var x = document.getElementById("myLinks");
+            if (x.style.display === "block") {
+                x.style.display = "none";
+            } else {
+                x.style.display = "block";
+            }
+        }
+    </script>
 </body>
 </html>
