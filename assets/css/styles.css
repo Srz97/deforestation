@@ -543,6 +543,9 @@ footer {
     header .logo-main {
         display: none;
 }  
+.topnav a {
+    font-size: 20px;
+}
  header nav {
     display: none;
 } 
@@ -597,5 +600,28 @@ footer {
         @media screen and (max-width: 500px) {
             .topnav a {
                 font-weight: 900; }
+
+            }
+
+            @media screen and (max-width: 400px) {
+                h2 {
+                    letter-spacing: 2px;
+                }
+                h3 {
+                    letter-spacing: 0px;
+                }
+                #cover-text {
+                    font-size: 100%;
+                    width: 200px;
+                    height: 130px;
+                    padding-top: 30px;
+                    right: 17px;
+                    top: 450px;
+                }
+                .image {
+                    background-size: cover;
+                    height: 311px;
+                    width: 100%;
+
 
             }
