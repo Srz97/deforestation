@@ -92,6 +92,7 @@ Deforestation is an online web page that informs and creates awarness amoung the
 * Google Fonts was used for the following fonts:
 * lato, Helvetica is used for headings and body on the site. It is a serif font.
 * Font awsome is used for the icons.
+* The mobile navigation bar's functionality is enhanced through the use of JavaScript to ensure smooth navigation on smaller screens.
 
 # Imagery 
 
