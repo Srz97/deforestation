@@ -44,9 +44,9 @@ Deforestation is an online web page that informs and creates awarness amoung the
 
 ## Key information for the site
 
-* What is the current Rate of Deforestation.
-* What are the Causes of Deforestation.
 * Why should we Care about this issue.
+* What are the Causes of Deforestation.
+* What is the current Rate of Deforestation.
 * What are the steps should be taken.
 * A way for people to know and be aware of the situation regarding Deforestation.
 
