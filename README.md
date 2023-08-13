@@ -1,5 +1,5 @@
 # Deforestation 
-This project is a simple yet impactful website aimed at raising awareness about deforestation and its harmful effects on the environment. The website provides information about the issue of deforestation and offers solutions to mitigate its impact.The Deforestaion website is designed to be responsive website allowing visitors to view on a range of devices.
+This project is a simple yet impactful website aimed at raising awareness about deforestation and its harmful effects on the environment. The website provides information about the issue of deforestation and offers solutions to mitigate its impact.
 
 ![Image One](assets/images/image-one.png)
 
@@ -34,6 +34,7 @@ This project is a simple yet impactful website aimed at raising awareness about 
 
 
 ## User Experience (UX)
+The Deforestation Awareness Website is designed to educate visitors about the consequences of deforestation and encourage them to take action to preserve our forests. The website features a clean and responsive design, making it accessible across various devices.
 
 ## Initial Discussion
 
