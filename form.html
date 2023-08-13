@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="club to help stop Deforestation">
     <meta name="keywords" content="Deforestation, stop cutting trees,">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="favicon" href="favicon.ico">
@@ -24,7 +27,24 @@
                 <li><a href="index.html#wellcome">Current Situation</a></li>
             </ul>
         </nav>
+
+        <!-- Simulate a smartphone / tablet -->
+       <div class="mobile-container">
+
+    <!-- Top Navigation Menu -->
+    <div class="topnav">
+      <a href="#home" class="active">Deforestation</a>
+      <div id="myLinks">
+        <a href="index.html">Home</a>
+        <a href="solutions.html">Solution</a>
+        <a href="index.html#wellcome">Current Situation</a>
+      </div>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
+    </div>
     </header>
+
     
     <!-- Sign Up Form section -->
     <section class="form-section">
@@ -74,5 +94,16 @@
         <p id="copyrights">Copyrights reserved - Sharaiz Shah 2022</p>
     </footer>
     <script src="https://kit.fontawesome.com/6618333e0a.js" crossorigin="anonymous"></script>
+
+    <script>
+        function myFunction() {
+          var x = document.getElementById("myLinks");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          } else {
+            x.style.display = "block";
+          }
+        }
+        </script>
 </body>
 </html>
