@@ -132,9 +132,6 @@ which ease the user experience regarding the topic.
  ![Image One](assets/images/image-seven.png)
  
 
-   <img src="https://srz97.github.io/deforestation/assets/images/image-seven.png">
-
-
 ## Accessibility
 
 I have been mindful during coding to ensure that the website is as accessible friendly as possible. I have achieved this by:
