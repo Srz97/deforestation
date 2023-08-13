@@ -2,9 +2,7 @@
 
 The Deforestaion website is designed to be responsive website allowing visitors to view on a range of devices. It allows visitors to find out about the Deforestation.
 
-<img src="https://srz97.github.io/deforestation/assets/images/image-one.png">
-
-
+![Image One](assets/images/image-one.png)
 
 * View [Deforestation](https://srz97.github.io/deforestation/) page here.
 
@@ -110,19 +108,22 @@ Deforestation is an online web page that informs and creates awarness amoung the
 
 * * The heading on the top right corner along with a nav bar on the right side. consist of four different Sections
 * * The title along with a catchy sub-heading and a picture in the background.
-* * The Current Situation Section.Briefly describes about whats going on right now along with a piuture attched.
-* * The Causes Section.Gives User more information What are the Causes? anlong with an interesting image.
-* * The Reasons Section.Which allows the to know why should they be concerned.And then their is a video attched along
+ 
+    * * The Reasons Section.Which allows the to know why should they be concerned.
+    * * The Causes Section.Gives User more information What are the Causes? anlong with an interesting image.
+      <img src="https://srz97.github.io/deforestation/assets/images/image-two.png">
+        
+* * The Current Situation Section.Briefly describes about whats going on right now And then their is a video attched along
 which ease the user experience regarding the topic.
+ <img src="https://srz97.github.io/deforestation/assets/images/image-three.png">
 
-<img src="https://srz97.github.io/deforestation/assets/images/image-two.png">
 
 * Solutions Page 
 
 * * Title and the background images gives the user a reason of their current presence at the site.
 * * Then it consists of Four different motivational Images along with a persuading captions and icons attched to create more interest and motivate the user. 
  
- <img src="https://srz97.github.io/deforestation/assets/images/image-three.png">
+
  
 * Form Page 
 * * The Sing Up form which allows the user to put in their Information.
