@@ -100,35 +100,35 @@ Deforestation is an online web page that informs and creates awarness amoung the
 
 
 # Key Features:
-Navigation Bar: The responsive navigation bar enables seamless navigation across the website. Users can effortlessly explore various sections to access comprehensive information.
+* Navigation Bar: The responsive navigation bar enables seamless navigation across the website. Users can effortlessly explore various sections to access comprehensive information.
 
-Section Layouts: The Home Page boasts a clean and intuitive layout designed to engage visitors. It adapts gracefully to different screen sizes, ensuring a consistent user experience across devices.
+* Section Layouts: The Home Page boasts a clean and intuitive layout designed to engage visitors. It adapts gracefully to different screen sizes, ensuring a consistent user experience across devices.
 
-Navigation Button: At the bottom of the page, a strategically placed button encourages users to take the next step by leading them to the "Current Situation" page. This design choice facilitates a smooth flow of information.
+* Navigation Button: At the bottom of the page, a strategically placed button encourages users to take the next step by leading them to the "Current Situation" page. This design choice facilitates a smooth flow of information.
 
-Footer: The footer is equipped with social media icons linked to Instagram, Facebook, and Twitter. These universally recognizable icons provide visitors with the opportunity to engage further and stay updated on relevant content.
+* Footer: The footer is equipped with social media icons linked to Instagram, Facebook, and Twitter. These universally recognizable icons provide visitors with the opportunity to engage further and stay updated on relevant content.
 
 ![Image One](assets/images/image-one.png)
-* * The heading on the top right corner along with a nav bar on the right side. consist of four different Sections
-* * The title along with a catchy sub-heading and a picture in the background.
+ * The heading on the top right corner along with a nav bar on the right side. consist of four different Sections
+ * The title along with a catchy sub-heading and a picture in the background.
  
  ![Image One](assets/images/image-two.png)
- * *The Reasons Section serves as a compelling introduction, outlining the critical importance of understanding and addressing deforestation. It engages users by addressing the question, "Why should they be concerned?" This section offers a concise yet impactful overview of the significance of the issue, motivating visitors to delve further into the website's content.
+* The Reasons Section serves as a compelling introduction, outlining the critical importance of understanding and addressing deforestation. It engages users by addressing the question, "Why should they be concerned?" This section offers a concise yet impactful overview of the significance of the issue, motivating visitors to delve further into the website's content.
            
   ![Image One](assets/images/image-three.png)
 
-* * The Current Situation Section.Briefly describes about whats going on right now And then their is a video attched along
+* The Current Situation Section.Briefly describes about whats going on right now And then their is a video attched along
 which ease the user experience regarding the topic.
 
-
+ ![Image One](assets/images/image-four.png)
 * Solutions Page 
 
 * * Title and the background images gives the user a reason of their current presence at the site.
+ 
+     ![Image One](assets/images/image-five.png)
+   ![Image One](assets/images/image-six.png)
 * * Then it consists of Four different motivational Images along with a persuading captions and icons attched to create more interest and motivate the user. 
  
- ![Image One](assets/images/image-four.png)
-  ![Image One](assets/images/image-five.png)
-   ![Image One](assets/images/image-six.png)
  
 * Form Page 
 * * The Sing Up form which allows the user to put in their Information.
