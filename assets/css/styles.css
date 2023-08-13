@@ -483,144 +483,42 @@ footer {
     font-size: 14px;
 }
 
-    /* Media quries */
+    /* Media queries */
 
-    @media screen and (max-width:1400px) {
+@media screen and (max-width: 1400px) {
+   }
+@media screen and (max-width: 900px) {
+    header .logo-main {
+        font-size: small; 
+}   header nav {
+    font-size: 14px;
+} 
+#cover-text {
+    font-size: 118%;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    width: 270px;
+    height: 174px;
+    padding-top: 40px;
+    padding-left: 12px;
+    bottom: 30px;
+    right: 86px;
+    top: 330px;
+    position: absolute;
+}
+}
+@media screen and (max-width: 700px) {
+    
+}
 
-        #solutions-list .solutions-list-div.right {
-            margin-top: 0px;
-        }
+@media screen and (max-width: 800px) {
+   
+}
 
-    }
-    @media screen and (max-width:900px) {
+@media screen and (max-width: 500px) {
+    
+}
 
-        #left {
-            width: 96%;
-            float: none;
-        }
-        #block2 {
-            width: 100%;
-            float: none;
-            margin-right: 0px;
-            margin-left: 0px;
-        }
-        #block3 {
-            width: 100%;
-            float: none;
-            margin-right: 0px;
-            margin-left: 0px;
-        }
-        #block-right {
-            width: 100%;
-            float: none;
-            margin: 0;
-
-        }
-        #causes {
-            display: table-cell;
-            background-color: rgb(173, 144, 144);
-        }
-        #reasons #block4 {
-            width: 100%;
-            float: none;
-            margin-right: 0px;
-            margin-left: 0px;
-            
-        }
-        #reasons {
-            height: 100%;
-            padding: 30px;
-        }
-        #reasons #left-about {
-            width: 100%;
-        }
-       #button {
-        margin-top: 50px;
-
-       }
-       #video-div {
-        width: 100%;
-       }
-       #solutions-list img{
-        width: 100%;
-
-    }
-    }
-       @media screen and (max-width:700px)
-       {
-
-      form {
-             background: rgba(100, 93, 82, 0.479);
-              margin-left: auto;
-            margin-right: auto;
-            width: 70%;
-            }
-       }
-       @media screen and (max-width:800px)
-       { 
-        #menu {
-        display: none;
-       } 
-    }
-
-       @media screen and (max-width:500px) {
-        #cover-text{
-            right:0;
-
-        }
-        #hero-image {
-            height: 400px;
-        }
-        header nav {
-            float: none;
-            width: 100%;
-            display: block;
-        }
-        #menu li {
-            float: right;
-            list-style-type: none;
-            margin-right: 10px;   
-        }
-        h1 {
-            letter-spacing: 1px;
-            font-size: 160%;
-        }
-        #solutions-text{
-        margin-top: 38%;
-    margin-right: 31%;
-           }
-           .form-text label {
-            text-align: right;
-            display: inline-block;
-            font-size: medium;
-        }
-        #copyrights {
-            font-size: small;
-    }
-    @media screen and (max-width:400px)
-          {
-            #header a {
-                font-size: 12px;   
-                }
-          #logo {
-            line-height: 77px;
-            margin-left: 10px;
-            }
-          #cover-text {
-            margin-right: 15px;
-            font-size: 119%;
-            font-family: sans-serif;
-            text-transform: uppercase;
-            letter-spacing: 4px;
-            width: 240px;
-            height: 162px;
-            padding-top: 40px;
-            padding-left: 22px;
-            padding-right: 10p;
-            background-color: rgba(241,109,107,.7);
-            bottom: 30px;
-            top: 264px;
-            position: absolute;
-        }
-      
-    }
+@media screen and (max-width: 400px) {
+   
+}
