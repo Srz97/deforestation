@@ -1,6 +1,5 @@
 # Deforestation 
-
-The Deforestaion website is designed to be responsive website allowing visitors to view on a range of devices. It allows visitors to find out about the Deforestation.
+This project is a simple yet impactful website aimed at raising awareness about deforestation and its harmful effects on the environment. The website provides information about the issue of deforestation and offers solutions to mitigate its impact.The Deforestaion website is designed to be responsive website allowing visitors to view on a range of devices.
 
 ![Image One](assets/images/image-one.png)
 
