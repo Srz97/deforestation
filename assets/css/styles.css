@@ -92,16 +92,6 @@ h1, h2 {
     overflow: hidden;
 }
 
-/* hero-image-zoom */
-@keyframes hero-zoom {
-    from{
-        transform: scale(1);
-    }
-    to{
-        transform: scale(1.1);
-    }
-}
-
 #cover-text #cover-text h2 {
     color: #fff;
 }
@@ -537,7 +527,19 @@ footer {
 
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 750px) {
+    header nav {
+        font-size: 12px;
+    }
+    h1 {
+        letter-spacing: 2px;
+    }
+    #logo {
+        margin-left: 15px;
+        margin-bottom: 0px;
+    }
+}
+@media screen and (max-width: 680px) {
     header .logo-main {
         display: none;
 }  
@@ -555,7 +557,6 @@ footer {
             max-width: 480px;
             margin: auto;
             background-color: white;
-            height: 500px;
             color: #333;
             border-radius: 10px;
           }
@@ -589,8 +590,10 @@ footer {
           .topnav a {
             font-size: 23px;
           }
+          header a {
+            height: 40px;
         }
-
+    }
         @media screen and (max-width: 500px) {
             .topnav a {
                 font-weight: 900; }
