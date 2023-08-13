@@ -73,7 +73,13 @@ Deforestation is an online web page that informs and creates awarness amoung the
 
 ## Frequent Visitor Goals
 
-* I want to be able to recommend a book for the book club to read.
+* Stay Informed: Regularly visiting the website allows you to stay informed about the latest affairs of deforestation.
+
+* Access Solutions: The "Solution" section of the website offers practical strategies and approaches to stop deforestation. Frequent visitors can explore these solutions in depth, gaining insights into how they can personally contribute to the cause.
+
+* Engage and Share: The website provides easy access to social media integration, enabling you to share informative content with your network and engage in discussions about deforestation. By sharing content from the website, you can contribute to spreading awareness and rallying support.
+
+
 
 # Design
 
