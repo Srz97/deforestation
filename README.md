@@ -172,7 +172,9 @@ Ensuring menus are accessible by marking the current page as current for screen 
  
 * I tested that this project works responsive, looks good and funcional on all standard screen sizes using the divtools devie tool bar.
 * I have confirmed that the navigation works on the large screen and the buttons on the smaller screens
-* I checked the form works acurately. 
+* I checked the form works acurately.
+* I also tested the website on different web browsers like Chrome, Firefox, and Safari, so it should work the same way no matter which browser you use.
+* To make sure everything was easy to use, we asked some people to try it out and tell us what they think. I fixed any problems they found.
 
 
 <img src="https://srz97.github.io/deforestation/assets/images/light-house.png">
