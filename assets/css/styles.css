@@ -596,6 +596,26 @@ footer {
           header a {
             height: 40px;
         }
+        /* Form Section */
+  .form-section .form-background {
+    width: 100%;
+  }
+  .form-section .form-text {
+    padding: 8px 0;
+  }
+  .form-section .form-heading {
+    font-size: 18px;
+  }
+  .form-section .form-text input {
+    padding: 5px;
+    font-size: 12px;
+  }
+  #sign-up {
+    margin: 8px auto;
+    padding: 6px 12px;
+    font-size: 12px;
+  }
+  
     }
         @media screen and (max-width: 500px) {
             .topnav a {
