@@ -1,7 +1,7 @@
 # Deforestation 
 This project is a simple yet impactful website aimed at raising awareness about deforestation and its harmful effects on the environment. The website provides information about the issue of deforestation and offers solutions to mitigate its impact.
 
-![Image One](assets/images/image-one.png)
+![Image One](assets/images/image-sixteen.png)
 
 * View [Deforestation](https://srz97.github.io/deforestation/) page here.
 
